@@ -1,2 +1,2 @@
-# Tugas-Javascript-String-Array
+# Tugas-Javascript
 Javascript: String &amp; Array Manipulation Task
