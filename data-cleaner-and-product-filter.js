@@ -1,4 +1,4 @@
-const rawInput = "  riyanda_azis, ARIFIAN_SAPUTRA , hasan_harahap  ";
+const rawInput = " riyanda_azis, ARIFIAN_SAPUTRA , hasan_harahap  ";
 
 const cleanedUsers = rawInput
   .trim()                              
